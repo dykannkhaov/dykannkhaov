@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Dykann 👋 </h1>
+<h1>Hey there, I'm Dykann 👨‍💻 </h1>
 
 <p>
 I am a <b>Software Engineer</b> with <b>5 years of experience</b>, specialized in 
