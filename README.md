@@ -2,7 +2,7 @@
 
 <p>
 I am a <b>Software Engineer</b> with <b>5 years of experience</b>, specialized in 
-<b>Front-End development</b>.
+<b>Front-End development.
 </p>
 
 <p>
