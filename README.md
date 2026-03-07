@@ -22,46 +22,34 @@ mobile applications with <b>React Native</b>.
 <strong>Core Web</strong>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js" />
   </a>
 </p>
 
-<strong>Frontend</strong>
+<strong>Frontend/Mobile (React Native)</strong>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,remix,vite,tailwind" />
   </a>
 </p>
 
-<strong>Mobile (React Native)</strong>
+<strong>Backend/Databases</strong>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase" />
   </a>
 </p>
 
-<strong>Backend</strong>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-</p>
-<strong>Databases</strong>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
-  </a>
-</p>
 <strong>Testing</strong>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cypress,vitest,jest" />
   </a>
 </p>
-<strong>Others</strong>
+<strong>DevOps</strong>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,figma" />
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
 
