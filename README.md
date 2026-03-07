@@ -1,8 +1,8 @@
 <h1>Hey there, I'm Dykann Khaov 👨‍💻 </h1>
 
 <p>
-I am a <b>Software Engineer</b> with <b>5 years of experience</b>, specialized in 
-<b>Front-End development.
+I am a <strong>Software Engineer</strong> with <strong>5 years of experience</strong>, specialized in 
+<strong>Front-End development<strong>.
 </p>
 
 <p>
