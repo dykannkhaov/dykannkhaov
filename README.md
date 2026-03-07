@@ -10,11 +10,6 @@ I design and build scalable, maintainable, and high-performance web applications
 using <b>React</b> and <b>TypeScript</b>.
 </p>
 
-<p>
-I also have experience developing 
-mobile applications with <b>React Native</b>.
-</p>
-
 <h2>Tech Stack</h2>
 
 <div>
