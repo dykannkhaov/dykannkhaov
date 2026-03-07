@@ -19,6 +19,6 @@ mobile applications with <b>React Native</b>.
 
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,remix,vite,tailwind,figma,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,vite,nodejs,postgres,supabase,firebase,docker,graphql,tailwind,figma,ts,js,html,css&perline=4)](https://skillicons.dev)
 
 </div>
