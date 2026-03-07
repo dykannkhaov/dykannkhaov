@@ -22,28 +22,28 @@ mobile applications with <b>React Native</b>.
 <strong>Frontend/Mobile (React Native)</strong>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,remix,vite,tailwind" height="40"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,remix,vite,tailwind" height="38"/>
   </a>
 </p>
 
 <strong>Backend/Databases</strong>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase,docker" height="40"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase,docker" height="38"/>
   </a>
 </p>
 
 <strong>Testing</strong>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,vitest,jest" height="40"/>
+    <img src="https://skillicons.dev/icons?i=cypress,vitest,jest" height="38"/>
   </a>
 </p>
 
 <strong>Core</strong>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js" height="40"/>
+    <img src="https://skillicons.dev/icons?i=ts,js" height="38"/>
   </a>
 </p>
 
