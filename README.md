@@ -15,10 +15,54 @@ I also have experience developing
 mobile applications with <b>React Native</b>.
 </p>
 
-<h3>Tech Stack</h3>
+<h2>Tech Stack</h2>
 
 <div>
+  
+<strong>Core Web</strong>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,vite,nodejs,postgres,supabase,firebase,ts,graphql,tailwind,figma,vitest,docker,jest,html,css,js&perline=9)](https://skillicons.dev)
+<strong>Frontend</strong>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,remix,vite,tailwind" />
+  </a>
+</p>
+
+<strong>Mobile (React Native)</strong>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p>
+
+<strong>Backend</strong>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>
+<strong>Databases</strong>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
+  </a>
+</p>
+<strong>Testing</strong>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,vitest,jest" />
+  </a>
+</p>
+<strong>Others</strong>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,figma" />
+  </a>
+</p>
 
 </div>
