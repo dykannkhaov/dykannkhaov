@@ -18,13 +18,6 @@ mobile applications with <b>React Native</b>.
 <h2>Tech Stack</h2>
 
 <div>
-  
-<strong>Typing</strong>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-</p>
 
 <strong>Frontend/Mobile (React Native)</strong>
 <p align="left">
@@ -36,7 +29,7 @@ mobile applications with <b>React Native</b>.
 <strong>Backend/Databases</strong>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase,docker" />
   </a>
 </p>
 
@@ -46,10 +39,11 @@ mobile applications with <b>React Native</b>.
     <img src="https://skillicons.dev/icons?i=cypress,vitest,jest" />
   </a>
 </p>
-<strong>DevOps</strong>
+
+<strong>Core</strong>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=ts,js" />
   </a>
 </p>
 
